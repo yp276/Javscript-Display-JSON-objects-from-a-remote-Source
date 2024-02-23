@@ -1,0 +1,6684 @@
+{
+  "resourceType": "Bundle",
+  "type": "transaction",
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:ce611dba-397d-3de2-b4ad-b8bbfb9feb2a",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "ce611dba-397d-3de2-b4ad-b8bbfb9feb2a",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "ce611dba-397d-3de2-b4ad-b8bbfb9feb2a"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MERITUS MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "2403139500"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "11116 MEDICAL CAMPUS ROAD"
+            ],
+            "city": "HAGERSTOWN",
+            "state": "MD",
+            "postalCode": "21742",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:23ae7162-a0d9-307b-8840-8ad4e3785133",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "23ae7162-a0d9-307b-8840-8ad4e3785133",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "23ae7162-a0d9-307b-8840-8ad4e3785133"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "FREDERICK MEMORIAL HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "2405663300"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "400 WEST SEVENTH ST"
+            ],
+            "city": "FREDERICK",
+            "state": "MD",
+            "postalCode": "21701",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d2fe0c4a-10ef-312c-bb37-7451b0e7d98b",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "d2fe0c4a-10ef-312c-bb37-7451b0e7d98b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "d2fe0c4a-10ef-312c-bb37-7451b0e7d98b"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MARYLAND HARFORD MEMORIAL HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4436433303"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "501 SOUTH  UNION AVENUE"
+            ],
+            "city": "HAVRE DE GRACE",
+            "state": "MD",
+            "postalCode": "21078",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5d4ff47a-d293-3025-8a3e-c909ee33ac70",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "5d4ff47a-d293-3025-8a3e-c909ee33ac70",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "5d4ff47a-d293-3025-8a3e-c909ee33ac70"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "JOHNS HOPKINS HOSPITAL, THE",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4109559540"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "600 NORTH  WOLFE STREET"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21287",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a0d2b8ef-b1e8-30ab-b076-0da55f7fb40c",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a0d2b8ef-b1e8-30ab-b076-0da55f7fb40c",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a0d2b8ef-b1e8-30ab-b076-0da55f7fb40c"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "SAINT AGNES HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4103682101"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "900 CATON AVENUE"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21229",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7000b7f0-889a-3bd8-a5e4-e8976014d649",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "7000b7f0-889a-3bd8-a5e4-e8976014d649",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "7000b7f0-889a-3bd8-a5e4-e8976014d649"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ADVENTIST HEALTHCARE WASHINGTON ADVENTIST HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "3018915651"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7600 CARROLL AVENUE"
+            ],
+            "city": "TAKOMA PARK",
+            "state": "MD",
+            "postalCode": "20912",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e8548e72-cb52-34de-9906-d24cdd9bb758",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "e8548e72-cb52-34de-9906-d24cdd9bb758",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 3
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 6
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "e8548e72-cb52-34de-9906-d24cdd9bb758"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MEDSTAR MONTGOMERY MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "3017748882"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "18101 PRINCE PHILIP DRIVE"
+            ],
+            "city": "OLNEY",
+            "state": "MD",
+            "postalCode": "20832",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:98b5a426-566b-3acb-8b6b-8ce7a08667d8",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "98b5a426-566b-3acb-8b6b-8ce7a08667d8",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 3
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 36
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 4
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "98b5a426-566b-3acb-8b6b-8ce7a08667d8"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "WESTERN MARYLAND REGIONAL MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "2409648001"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "12500 WILLOWBROOK ROAD"
+            ],
+            "city": "CUMBERLAND",
+            "state": "MD",
+            "postalCode": "21502",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9e6f47da-343d-3470-8c47-69990d60c0bc",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "9e6f47da-343d-3470-8c47-69990d60c0bc",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "9e6f47da-343d-3470-8c47-69990d60c0bc"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MD SHORE MEDICAL CTR AT CHESTERTOWN",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4107787668"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "100 BROWN STREET"
+            ],
+            "city": "CHESTERTOWN",
+            "state": "MD",
+            "postalCode": "21620",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a5fde254-746f-3d58-8d66-af0812f822ff",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a5fde254-746f-3d58-8d66-af0812f822ff",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 3
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a5fde254-746f-3d58-8d66-af0812f822ff"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CARROLL HOSPITAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4108483000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "200 MEMORIAL AVENUE"
+            ],
+            "city": "WESTMINSTER",
+            "state": "MD",
+            "postalCode": "21157",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e66aa975-b981-39ae-8447-236c9edcf95d",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "e66aa975-b981-39ae-8447-236c9edcf95d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "e66aa975-b981-39ae-8447-236c9edcf95d"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MEDSTAR HARBOR HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4103503201"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "3001 SOUTH  HANOVER STREET"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21225",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:85abc303-0cd4-3214-96cd-b5aea8ac4eff",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "85abc303-0cd4-3214-96cd-b5aea8ac4eff",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "85abc303-0cd4-3214-96cd-b5aea8ac4eff"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MD SHORE MEDICAL CENTER AT EASTON",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4108221000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "219 SOUTH  WASHINGTON STREET"
+            ],
+            "city": "EASTON",
+            "state": "MD",
+            "postalCode": "21601",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3a01c8f1-6aa6-3436-9689-6b92dd7c8ff7",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "3a01c8f1-6aa6-3436-9689-6b92dd7c8ff7",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "3a01c8f1-6aa6-3436-9689-6b92dd7c8ff7"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "GREATER BALTIMORE MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4438492000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "6701 NORTH  CHARLES STREET"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21204",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e21e845f-a725-316e-8348-7e04c6cfdb38",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "e21e845f-a725-316e-8348-7e04c6cfdb38",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "e21e845f-a725-316e-8348-7e04c6cfdb38"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "DOCTORS'  COMMUNITY HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "3015528085"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8118 GOOD LUCK ROAD"
+            ],
+            "city": "LANHAM",
+            "state": "MD",
+            "postalCode": "20706",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f77e0430-e21d-3101-aac7-c5aa151b102d",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f77e0430-e21d-3101-aac7-c5aa151b102d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f77e0430-e21d-3101-aac7-c5aa151b102d"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "LAUREL REGIONAL MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "3017254300"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7300 VAN DUSEN ROAD"
+            ],
+            "city": "LAUREL",
+            "state": "MD",
+            "postalCode": "20707",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:80bac19d-36d8-3b40-8449-3c7dba77bb66",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "80bac19d-36d8-3b40-8449-3c7dba77bb66",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "80bac19d-36d8-3b40-8449-3c7dba77bb66"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ADVENTIST HEALTHCARE SHADY GROVE MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "2408266517"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9901 MEDICAL CENTER DRIVE"
+            ],
+            "city": "ROCKVILLE",
+            "state": "MD",
+            "postalCode": "20850",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2f4616a9-3ccb-3997-b569-5b1d924e8b94",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "2f4616a9-3ccb-3997-b569-5b1d924e8b94",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 6
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 8
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "2f4616a9-3ccb-3997-b569-5b1d924e8b94"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MARYLAND ST JOSEPH MEDICAL CENTER",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4103371000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7601 OSLER DRIVE"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a90365f2-6d3d-3686-ad12-f3e6a553d7ba",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a90365f2-6d3d-3686-ad12-f3e6a553d7ba",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 12
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 9
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 9
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a90365f2-6d3d-3686-ad12-f3e6a553d7ba"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "HOLY CROSS GERMANTOWN HOSPITAL",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "3015576020"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "19801 OBSERVATION DRIVE"
+            ],
+            "city": "GERMANTOWN",
+            "state": "MD",
+            "postalCode": "20876",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9bf22ec6-22c0-3253-ab90-a48baf0598a2",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "9bf22ec6-22c0-3253-ab90-a48baf0598a2",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "9bf22ec6-22c0-3253-ab90-a48baf0598a2"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "KENNEDY KRIEGER INSTITUTE",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "4439239301"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "707 NORTH  BROADWAY"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21205",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:900903bc-7585-32e4-91c4-bb41bffaa809",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "900903bc-7585-32e4-91c4-bb41bffaa809",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 76
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "900903bc-7585-32e4-91c4-bb41bffaa809"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP1066",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-825-6020"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7402 YORK RD"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-7522",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:796e1d22-e429-3b37-8879-6ba42a2a02ec",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "796e1d22-e429-3b37-8879-6ba42a2a02ec",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 32
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "796e1d22-e429-3b37-8879-6ba42a2a02ec"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP2008",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-261-3574"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1538 CHAPMAN RD"
+            ],
+            "city": "CROFTON",
+            "state": "MD",
+            "postalCode": "21114-3100",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:824ed196-0944-3ae9-b72a-94c43cbc27ee",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "824ed196-0944-3ae9-b72a-94c43cbc27ee",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 56
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "824ed196-0944-3ae9-b72a-94c43cbc27ee"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP2989",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-926-9088"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "16220 FREDERICK RD"
+            ],
+            "city": "GAITHERSBURG",
+            "state": "MD",
+            "postalCode": "20877-4021",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dda3c7ac-981c-33f5-96c0-339aeaa362da",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "dda3c7ac-981c-33f5-96c0-339aeaa362da",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 26
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "dda3c7ac-981c-33f5-96c0-339aeaa362da"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP6182",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-913-3565"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "28 ALLEGHENY AVE"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-3919",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0238f685-2aae-340e-885d-318789e76e28",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "0238f685-2aae-340e-885d-318789e76e28",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 62
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "0238f685-2aae-340e-885d-318789e76e28"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP29964",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-747-5600"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "5602 BALTIMORE NATIONAL PIKE"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21228-1410",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:75bc7c03-0430-3ab8-b4f7-b24aad8ab805",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "75bc7c03-0430-3ab8-b4f7-b24aad8ab805",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 152
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "75bc7c03-0430-3ab8-b4f7-b24aad8ab805"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP33468",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-665-5353"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7954 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-5838",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c599437c-596f-3951-bdfe-dd719e67c8c3",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "c599437c-596f-3951-bdfe-dd719e67c8c3",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 66
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "c599437c-596f-3951-bdfe-dd719e67c8c3"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP39518",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-682-3000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8635 PHILADELPHIA RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-3020",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fb356b68-dd71-391e-ba27-365a57ff450a",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "fb356b68-dd71-391e-ba27-365a57ff450a",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "fb356b68-dd71-391e-ba27-365a57ff450a"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP54433",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-687-7010"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9114 PHILADELPHIA RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-4350",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a957b234-b727-3690-862a-d3d4978c69e5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a957b234-b727-3690-862a-d3d4978c69e5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a957b234-b727-3690-862a-d3d4978c69e5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ALPHA POINT MEDICAL LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-313-9013"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "6201 GREENBELT RD"
+            ],
+            "city": "BERWYN HEIGHTS",
+            "state": "MD",
+            "postalCode": "20740-2354",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:411e8945-1bba-38f5-84e3-9fc93cabdc2d",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "411e8945-1bba-38f5-84e3-9fc93cabdc2d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "411e8945-1bba-38f5-84e3-9fc93cabdc2d"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PRESTON FAMILY PHYSICIANS",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-673-1690"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "3683 CHOPTANK RD"
+            ],
+            "city": "PRESTON",
+            "state": "MD",
+            "postalCode": "21655-1220",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3d7fbf52-df4c-366f-bdb5-241deb475a87",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "3d7fbf52-df4c-366f-bdb5-241deb475a87",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 114
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "3d7fbf52-df4c-366f-bdb5-241deb475a87"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP68163",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-486-6978"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7102 MARIPOSA RD"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21209-1018",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:454ecb96-f4f6-3c6a-a39e-15ce9affc430",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "454ecb96-f4f6-3c6a-a39e-15ce9affc430",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 106
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "454ecb96-f4f6-3c6a-a39e-15ce9affc430"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "BRIDGES BEHAVIORAL HEALTH AND WELLNESS",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-758-8750"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "207 N LIBERTY ST"
+            ],
+            "city": "CENTREVILLE",
+            "state": "MD",
+            "postalCode": "21617-1022",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7410eac7-cc84-3ee3-aae7-388abf87f6a7",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "7410eac7-cc84-3ee3-aae7-388abf87f6a7",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 140
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "7410eac7-cc84-3ee3-aae7-388abf87f6a7"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP80624",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-882-2648"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8109 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-9205",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9c758046-43d7-3c48-bd5d-6a6a80c0c003",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "9c758046-43d7-3c48-bd5d-6a6a80c0c003",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 64
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "9c758046-43d7-3c48-bd5d-6a6a80c0c003"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PEAK PERFORMANCE ORTHOPEDICS, INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "240-964-7000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "12500 WILLOWBROOK RD"
+            ],
+            "city": "CUMBERLAND",
+            "state": "MD",
+            "postalCode": "21502-6393",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:009d4008-e788-3329-993b-ea78be1c76a6",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "009d4008-e788-3329-993b-ea78be1c76a6",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 172
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 5
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "009d4008-e788-3329-993b-ea78be1c76a6"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PADDER HEALTH SERVICES LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "240-203-9000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "11110 MEDICAL CAMPUS RD"
+            ],
+            "city": "HAGERSTOWN",
+            "state": "MD",
+            "postalCode": "21742-6727",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0961a171-04d6-31aa-badc-d3d1ae35593b",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "0961a171-04d6-31aa-badc-d3d1ae35593b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 120
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "0961a171-04d6-31aa-badc-d3d1ae35593b"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP89725",
+        "address": [
+          {
+            "line": [
+              "9403 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-3123",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6dff88b2-b76f-3bb0-b835-1f8229ee54d9",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "6dff88b2-b76f-3bb0-b835-1f8229ee54d9",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 234
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 8
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 6
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "6dff88b2-b76f-3bb0-b835-1f8229ee54d9"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "HOWARD I GOLDMAN, MD LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-238-32623"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9106 PHILADELPHIA RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-4343",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d9b22549-1541-3f91-abf8-cda3ff2a85e9",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "d9b22549-1541-3f91-abf8-cda3ff2a85e9",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 332
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 9
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 3
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 3
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "d9b22549-1541-3f91-abf8-cda3ff2a85e9"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP105878",
+        "address": [
+          {
+            "line": [
+              "21500 QUICK FOX LN"
+            ],
+            "city": "LAYTONSVILLE",
+            "state": "MD",
+            "postalCode": "20882-1340",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b861f79d-3c2a-3d24-8496-6f141af04138",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "b861f79d-3c2a-3d24-8496-6f141af04138",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 32
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "b861f79d-3c2a-3d24-8496-6f141af04138"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP107209",
+        "address": [
+          {
+            "line": [
+              "1298 BAY DALE DR"
+            ],
+            "city": "ARNOLD",
+            "state": "MD",
+            "postalCode": "21012-2815",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4f0f55ff-eebd-33a7-92e2-6a5b7f2fef2f",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "4f0f55ff-eebd-33a7-92e2-6a5b7f2fef2f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 72
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "4f0f55ff-eebd-33a7-92e2-6a5b7f2fef2f"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MAVROPHILIPOS AND MAVROPHILIPOS",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-560-1892"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8113 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-8790",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7ffa6db7-ed11-3401-b90c-63d483a93d6f",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "7ffa6db7-ed11-3401-b90c-63d483a93d6f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 70
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "7ffa6db7-ed11-3401-b90c-63d483a93d6f"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP111442",
+        "address": [
+          {
+            "line": [
+              "7106 RIDGE RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-3876",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7cfef066-9a8b-3c98-8ba3-24546f10da5e",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "7cfef066-9a8b-3c98-8ba3-24546f10da5e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 84
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 5
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "7cfef066-9a8b-3c98-8ba3-24546f10da5e"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP111896",
+        "address": [
+          {
+            "line": [
+              "19560 CLUB HOUSE RD"
+            ],
+            "city": "MONTGOMERY VILLAGE",
+            "state": "MD",
+            "postalCode": "20886-3002",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9d4ee0c7-f97f-3965-8f9b-a66c26d245fa",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "9d4ee0c7-f97f-3965-8f9b-a66c26d245fa",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 104
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "9d4ee0c7-f97f-3965-8f9b-a66c26d245fa"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CRISFIELD CLINIC LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-968-1800"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "4384 CRISFIELD HWY"
+            ],
+            "city": "CRISFIELD",
+            "state": "MD",
+            "postalCode": "21817-2550",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:167a83fb-ccc8-3606-8822-4d6fec2e0340",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "167a83fb-ccc8-3606-8822-4d6fec2e0340",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 26
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "167a83fb-ccc8-3606-8822-4d6fec2e0340"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP118985",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-721-2422"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "2191 DEFENSE HWY 104"
+            ],
+            "city": "CROFTON",
+            "state": "MD",
+            "postalCode": "21114-2465",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3ad557a8-9d9a-39df-a38c-e314f3fe7528",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "3ad557a8-9d9a-39df-a38c-e314f3fe7528",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 46
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "3ad557a8-9d9a-39df-a38c-e314f3fe7528"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP125176",
+        "address": [
+          {
+            "line": [
+              "270 W MAIN ST"
+            ],
+            "city": "ELKTON",
+            "state": "MD",
+            "postalCode": "21921-5232",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:240dd2bf-ef6e-3315-a9f6-6589204105a0",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "240dd2bf-ef6e-3315-a9f6-6589204105a0",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 56
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "240dd2bf-ef6e-3315-a9f6-6589204105a0"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP126419",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-780-1980"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9106 PHILADELPHIA RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-4333",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1b4d12d8-524d-377a-adb7-dfcc4cf1e54b",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "1b4d12d8-524d-377a-adb7-dfcc4cf1e54b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 136
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "1b4d12d8-524d-377a-adb7-dfcc4cf1e54b"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP133742",
+        "address": [
+          {
+            "line": [
+              "5020 SUNNYSIDE AVE"
+            ],
+            "city": "BELTSVILLE",
+            "state": "MD",
+            "postalCode": "20705-2307",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e90ba714-645c-3872-963f-f7e2fa2e64b1",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "e90ba714-645c-3872-963f-f7e2fa2e64b1",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "e90ba714-645c-3872-963f-f7e2fa2e64b1"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP133866",
+        "address": [
+          {
+            "line": [
+              "423 RAILROAD AVE"
+            ],
+            "city": "CENTREVILLE",
+            "state": "MD",
+            "postalCode": "21617-1170",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ee9f01c6-bfea-36fb-b684-7a3caad40612",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "ee9f01c6-bfea-36fb-b684-7a3caad40612",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 100
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "ee9f01c6-bfea-36fb-b684-7a3caad40612"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP136655",
+        "address": [
+          {
+            "line": [
+              "826 WASHINGTON RD"
+            ],
+            "city": "WESTMINSTER",
+            "state": "MD",
+            "postalCode": "21157-5779",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:66bd9940-4b0a-395c-a503-1d6473455560",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "66bd9940-4b0a-395c-a503-1d6473455560",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "66bd9940-4b0a-395c-a503-1d6473455560"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP141119",
+        "address": [
+          {
+            "line": [
+              "6700 RIDGE RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-3960",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:343f3dee-f742-3430-b9fc-b16a2031b8df",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "343f3dee-f742-3430-b9fc-b16a2031b8df",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 36
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "343f3dee-f742-3430-b9fc-b16a2031b8df"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP147025",
+        "address": [
+          {
+            "line": [
+              "13609 CECIL AVE"
+            ],
+            "city": "CRESAPTOWN",
+            "state": "MD",
+            "postalCode": "21502-5631",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:72bc720c-3b99-34dc-82ca-f20531897364",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "72bc720c-3b99-34dc-82ca-f20531897364",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 106
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "72bc720c-3b99-34dc-82ca-f20531897364"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP159569",
+        "address": [
+          {
+            "line": [
+              "1223- E NATIONAL HWY"
+            ],
+            "city": "LAVALE",
+            "state": "MD",
+            "postalCode": "21502-7602",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b25b5b99-5faa-368d-baba-cecb007e2698",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "b25b5b99-5faa-368d-baba-cecb007e2698",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 64
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "b25b5b99-5faa-368d-baba-cecb007e2698"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP163728",
+        "address": [
+          {
+            "line": [
+              "251 E BALTIMORE ST"
+            ],
+            "city": "HAGERSTOWN",
+            "state": "MD",
+            "postalCode": "21740-6144",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1f62de8d-2464-3db2-a7dc-ac38490b6d5f",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "1f62de8d-2464-3db2-a7dc-ac38490b6d5f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 124
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "1f62de8d-2464-3db2-a7dc-ac38490b6d5f"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP172423",
+        "address": [
+          {
+            "line": [
+              "8109 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-9205",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:bf5cd62b-6c6b-34ef-a188-564ef62be695",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "bf5cd62b-6c6b-34ef-a188-564ef62be695",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 90
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "bf5cd62b-6c6b-34ef-a188-564ef62be695"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP173883",
+        "address": [
+          {
+            "line": [
+              "13531 CONNECTICUT AVE"
+            ],
+            "city": "ASPEN HILL",
+            "state": "MD",
+            "postalCode": "20906-2912",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fd202456-d3ed-3cd3-924b-b705c7914372",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "fd202456-d3ed-3cd3-924b-b705c7914372",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 36
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "fd202456-d3ed-3cd3-924b-b705c7914372"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CENTREPOINTE COUNSELING, INC.",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "800-491-5369"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "17826 NEW HAMPSHIRE AVE"
+            ],
+            "city": "ASHTON",
+            "state": "MD",
+            "postalCode": "20861-9781",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:54638c15-616d-362a-9401-d08206c69bf6",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "54638c15-616d-362a-9401-d08206c69bf6",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 62
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "54638c15-616d-362a-9401-d08206c69bf6"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP176225",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-715-3744"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7501 GREENWAY CTR DR"
+            ],
+            "city": "GREENBELT",
+            "state": "MD",
+            "postalCode": "20770-6702",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fc41ab75-cb18-3c88-99b0-374e7069a8cd",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "fc41ab75-cb18-3c88-99b0-374e7069a8cd",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "fc41ab75-cb18-3c88-99b0-374e7069a8cd"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "VASCULAR SURGERY ASSOCIATES, L.L.C.",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "855-654-9982"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "5233 KING AVE"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-4001",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:38be346e-9c1b-3421-9027-ac9c45356be1",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "38be346e-9c1b-3421-9027-ac9c45356be1",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 66
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "38be346e-9c1b-3421-9027-ac9c45356be1"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "NATIONAL REHABILITATION HOSPITAL INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-390-3076"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "12158 CENTRAL AVE"
+            ],
+            "city": "MITCHELLVILLE",
+            "state": "MD",
+            "postalCode": "20721-1932",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:af60e1f1-76a3-3012-a021-5c9b553de70e",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "af60e1f1-76a3-3012-a021-5c9b553de70e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 70
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "af60e1f1-76a3-3012-a021-5c9b553de70e"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "SPORTS PRO PHYSICAL THERAPY LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-805-5006"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "12200 ANNAPOLIS RD"
+            ],
+            "city": "GLENN DALE",
+            "state": "MD",
+            "postalCode": "20769-9180",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:588c6ec0-865e-357d-8c9f-2edc9ca44787",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "588c6ec0-865e-357d-8c9f-2edc9ca44787",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 98
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "588c6ec0-865e-357d-8c9f-2edc9ca44787"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP200054",
+        "address": [
+          {
+            "line": [
+              "3300 OLNEY SANDY SPRING RD"
+            ],
+            "city": "OLNEY",
+            "state": "MD",
+            "postalCode": "20832-3306",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c828ee68-e754-3f4e-a5ab-97f31c3494dd",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "c828ee68-e754-3f4e-a5ab-97f31c3494dd",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 64
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "c828ee68-e754-3f4e-a5ab-97f31c3494dd"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP200169",
+        "address": [
+          {
+            "line": [
+              "9811 GREENBELT RD"
+            ],
+            "city": "LANHAM",
+            "state": "MD",
+            "postalCode": "20706-6241",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3b62ea3a-7852-3f5c-b56a-da212cc93307",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "3b62ea3a-7852-3f5c-b56a-da212cc93307",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 64
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "3b62ea3a-7852-3f5c-b56a-da212cc93307"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ADVANCED PAIN MEDICINE INSTITUTE PC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-220-1333"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8500 ANNAPOLIS RD"
+            ],
+            "city": "NEW CARROLLTON",
+            "state": "MD",
+            "postalCode": "20784-3014",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a350d9bc-7543-3212-a548-faa4932dcc50",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a350d9bc-7543-3212-a548-faa4932dcc50",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 28
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a350d9bc-7543-3212-a548-faa4932dcc50"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CHOPTANK COMMUNITY HEALTH SYSTEM INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-754-9021"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "215 BLOOMINGDALE AVE"
+            ],
+            "city": "FEDERALSBURG",
+            "state": "MD",
+            "postalCode": "21632-1012",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:566b91e6-f58b-34e1-8341-47f84f7e135c",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "566b91e6-f58b-34e1-8341-47f84f7e135c",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 112
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "566b91e6-f58b-34e1-8341-47f84f7e135c"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "GREEN RIDGE BEHAVIORAL HEALTH, LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "240-683-6202"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "11120 NEW HAMPSHIRE AVE"
+            ],
+            "city": "SILVER SPRINGS",
+            "state": "MD",
+            "postalCode": "20904-2603",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:39866e5b-76bd-3bdb-a072-5462c8a8de6b",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "39866e5b-76bd-3bdb-a072-5462c8a8de6b",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 76
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "39866e5b-76bd-3bdb-a072-5462c8a8de6b"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MED-PED HEALTH CARE LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-441-4400"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "6201 GREENBELT RD"
+            ],
+            "city": "BERWYN HEIGHTS",
+            "state": "MD",
+            "postalCode": "20740-2333",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d50723ce-2e8f-3256-b6e8-4690bc2f19a5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "d50723ce-2e8f-3256-b6e8-4690bc2f19a5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 136
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "d50723ce-2e8f-3256-b6e8-4690bc2f19a5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "THRIVE BEHAVIORAL HEALTH, LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-780-4320"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8967 YELLOW BRICK RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-2303",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8f2a59bd-9e29-38e1-b1d3-66fb2c83cc91",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "8f2a59bd-9e29-38e1-b1d3-66fb2c83cc91",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 92
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "8f2a59bd-9e29-38e1-b1d3-66fb2c83cc91"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP221508",
+        "address": [
+          {
+            "line": [
+              "10756 RHODE ISLAND AVE"
+            ],
+            "city": "BELTSVILLE",
+            "state": "MD",
+            "postalCode": "20705-2513",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fd5fee43-5059-39cf-9adc-609cea5bbe3e",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "fd5fee43-5059-39cf-9adc-609cea5bbe3e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 120
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "fd5fee43-5059-39cf-9adc-609cea5bbe3e"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "STEVEN R ALLGAIER OD PA",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-898-3000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8415 WOODSBORO PIKE UNITS A-C"
+            ],
+            "city": "WALKERSVILLE",
+            "state": "MD",
+            "postalCode": "21793-0000",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2e1d0159-0057-3247-b70a-b1aa63a13407",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "2e1d0159-0057-3247-b70a-b1aa63a13407",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 260
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 3
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "2e1d0159-0057-3247-b70a-b1aa63a13407"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "LIFE FITNESS PHYSICAL THERAPY LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-668-2162"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "2318 E JOPPA RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-2808",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a77c3ea0-6b94-37c9-9193-b968763e0082",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "a77c3ea0-6b94-37c9-9193-b968763e0082",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 28
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "a77c3ea0-6b94-37c9-9193-b968763e0082"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MEDSTAR HARBOR HOSPITAL PHYSICIANS LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-350-3200"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "3001 S HANOVER ST"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21225-1233",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ae0f1753-305d-3a09-b19a-00e251433e1f",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "ae0f1753-305d-3a09-b19a-00e251433e1f",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 86
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "ae0f1753-305d-3a09-b19a-00e251433e1f"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MID-ATLANTIC NEPHROLOGY ASSOCIATES PA",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-760-3588"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "3001 S HANOVER ST"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21225-1233",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:327942ee-1b1b-39ff-9fb8-4f435ea80a78",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "327942ee-1b1b-39ff-9fb8-4f435ea80a78",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 150
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 2
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "327942ee-1b1b-39ff-9fb8-4f435ea80a78"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CARROLL HEALTH GROUP LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-829-5906"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "504 E RIDGEVILLE BLVD"
+            ],
+            "city": "MOUNT AIRY",
+            "state": "MD",
+            "postalCode": "21771-5252",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f470a753-0c7b-3a6e-93dc-0207f9f182e1",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f470a753-0c7b-3a6e-93dc-0207f9f182e1",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f470a753-0c7b-3a6e-93dc-0207f9f182e1"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNION HOSPITAL OF CECIL COUNTY",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-642-2289"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "4863 PULASKI HWY"
+            ],
+            "city": "PERRYVILLE",
+            "state": "MD",
+            "postalCode": "21903-1623",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cf2cc167-1b5d-3349-b92d-256c11167de3",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "cf2cc167-1b5d-3349-b92d-256c11167de3",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 4
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "cf2cc167-1b5d-3349-b92d-256c11167de3"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP254766",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-262-8603"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7600 OSLER DR"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-7703",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:491214bb-c67a-3ac3-b0e7-55187957fb85",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "491214bb-c67a-3ac3-b0e7-55187957fb85",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 144
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 3
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "491214bb-c67a-3ac3-b0e7-55187957fb85"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP265854",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-689-3138"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "4 S BROADWAY"
+            ],
+            "city": "FROSTBURG",
+            "state": "MD",
+            "postalCode": "21532-1708",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cc505233-aa0e-38b7-8d74-3008e5751a11",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "cc505233-aa0e-38b7-8d74-3008e5751a11",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 38
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "cc505233-aa0e-38b7-8d74-3008e5751a11"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "JOHNS HOPKINS UNIVERSITY",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-955-5080"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "601 N CAROLINE ST"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21287-0006",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f1bec015-480c-381e-9fbf-9d965b2f63f5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f1bec015-480c-381e-9fbf-9d965b2f63f5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 74
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 3
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f1bec015-480c-381e-9fbf-9d965b2f63f5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MARYLAND ST JOSEPH MEDICAL GROUP LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-337-4877"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7601 OSLER DR"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-7700",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4542389f-d3c0-3b5c-9733-082919449e85",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "4542389f-d3c0-3b5c-9733-082919449e85",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 178
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "4542389f-d3c0-3b5c-9733-082919449e85"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MNR INDUSTRIES LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-569-0069"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7701 HARFORD RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-6403",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:32f016c0-2597-37e3-b8dc-a922214bd909",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "32f016c0-2597-37e3-b8dc-a922214bd909",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 66
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 1
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "32f016c0-2597-37e3-b8dc-a922214bd909"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "EMERGENCY MEDICINE ASSOCIATES PA PC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-552-8665"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8118 GOOD LUCK RD"
+            ],
+            "city": "LANHAM",
+            "state": "MD",
+            "postalCode": "20706-3574",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c313bb2d-ed1e-3d8b-b3cc-9e13216ee6c5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "c313bb2d-ed1e-3d8b-b3cc-9e13216ee6c5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 134
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "c313bb2d-ed1e-3d8b-b3cc-9e13216ee6c5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PRIVIA MEDICAL GROUP,LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-845-6322"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "10200 COPPERMINE RD"
+            ],
+            "city": "WOODSBORO",
+            "state": "MD",
+            "postalCode": "21798-8319",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c5750608-fc9f-3cc8-85b7-312cf24e193a",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "c5750608-fc9f-3cc8-85b7-312cf24e193a",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 140
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "c5750608-fc9f-3cc8-85b7-312cf24e193a"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MARYLAND COMMUNITY MEDICAL GROUP INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-822-1000"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "836 S 5TH AVE"
+            ],
+            "city": "DENTON",
+            "state": "MD",
+            "postalCode": "21629-1398",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:706a9b0d-5bab-3797-87ea-5825843b7a10",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "706a9b0d-5bab-3797-87ea-5825843b7a10",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "706a9b0d-5bab-3797-87ea-5825843b7a10"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CENTER FOR VEIN RESTORATION MD LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "855-830-8346"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9110 PHILADELPHIA RD"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-4327",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c1ed8e88-5266-38a4-975f-b2b016315563",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "c1ed8e88-5266-38a4-975f-b2b016315563",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 68
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "c1ed8e88-5266-38a4-975f-b2b016315563"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "DELLA BEHAVIORAL HEALTH SERVICES LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-692-8787"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "9001 CHERRY LN"
+            ],
+            "city": "LAUREL",
+            "state": "MD",
+            "postalCode": "20708-1120",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ae9ddc57-5afb-3249-a8c4-467eef5fd58d",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "ae9ddc57-5afb-3249-a8c4-467eef5fd58d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 146
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "ae9ddc57-5afb-3249-a8c4-467eef5fd58d"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MEDSTAR MEDICAL GROUP II LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-831-5333"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "602 CTR ST"
+            ],
+            "city": "MOUNT AIRY",
+            "state": "MD",
+            "postalCode": "21771-7445",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:609bf820-0764-335c-8e9e-3c141a99f084",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "609bf820-0764-335c-8e9e-3c141a99f084",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "609bf820-0764-335c-8e9e-3c141a99f084"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "HOME CARE HEALTH SPECIALISTS LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "610-859-0002"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7925 YORK RD"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-7009",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f85c85da-8dea-34b3-bbea-a9000fdda8cf",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f85c85da-8dea-34b3-bbea-a9000fdda8cf",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 32
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f85c85da-8dea-34b3-bbea-a9000fdda8cf"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PRIVIA MEDICAL GROUP,LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-668-4300"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8831 SATYR HILL RD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-2355",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8b07ea1d-c354-3526-9cfb-4d54861a85dd",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "8b07ea1d-c354-3526-9cfb-4d54861a85dd",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 68
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "8b07ea1d-c354-3526-9cfb-4d54861a85dd"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP328324",
+        "address": [
+          {
+            "line": [
+              "15 E FREDERICK ST"
+            ],
+            "city": "WALKERSVILLE",
+            "state": "MD",
+            "postalCode": "21793-8234",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:77f53731-505c-3605-8e01-b18929a3b289",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "77f53731-505c-3605-8e01-b18929a3b289",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 60
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "77f53731-505c-3605-8e01-b18929a3b289"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "SINAI HOSPITAL OF BALTIMORE, INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-601-1441"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "5051 GREENSPRING AVE"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21209-4358",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:efbfe25d-1efb-331b-8925-e864fa1cd7aa",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "efbfe25d-1efb-331b-8925-e864fa1cd7aa",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 62
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "efbfe25d-1efb-331b-8925-e864fa1cd7aa"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MARYLAND SPORTSCARE AND REHAB LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-339-1966"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8665 PULASKI HWY"
+            ],
+            "city": "ROSEDALE",
+            "state": "MD",
+            "postalCode": "21237-3028",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:28a8a9e6-3e9f-3c04-a25e-8275bebaac2c",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "28a8a9e6-3e9f-3c04-a25e-8275bebaac2c",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 176
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 8
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 2
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "28a8a9e6-3e9f-3c04-a25e-8275bebaac2c"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PROGRESSIVE RADIOLOGY OF ILLINOIS LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "703-667-8600"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "1 TOM FOX CT"
+            ],
+            "city": "POOLESVILLE",
+            "state": "MD",
+            "postalCode": "20837-3013",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e855884e-5d9d-3951-b398-4aeb3773ff64",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "e855884e-5d9d-3951-b398-4aeb3773ff64",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 50
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "e855884e-5d9d-3951-b398-4aeb3773ff64"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSITY OF MARYLAND EYE ASSOCIATES, PA",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-805-9200"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "17000 SCIENCE DR"
+            ],
+            "city": "BOWIE",
+            "state": "MD",
+            "postalCode": "20715-4431",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d2136ec3-6f54-3313-b197-e2334ef0967e",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "d2136ec3-6f54-3313-b197-e2334ef0967e",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 66
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "d2136ec3-6f54-3313-b197-e2334ef0967e"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "UNIVERSAL RADIOLOGY CONSULTANTS PC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "478-333-3603"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "17009 FLATWOOD DR"
+            ],
+            "city": "DERWOOD",
+            "state": "MD",
+            "postalCode": "20855-2538",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:565818b0-020d-38c9-978a-9868e4ee1654",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "565818b0-020d-38c9-978a-9868e4ee1654",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 42
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "565818b0-020d-38c9-978a-9868e4ee1654"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "TOTAL HEALTH CARE INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-383-8300"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "922 W N AVE"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21217-3940",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7990f0d0-c157-3020-bc8b-ae76c274ab7d",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "7990f0d0-c157-3020-bc8b-ae76c274ab7d",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 58
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "7990f0d0-c157-3020-bc8b-ae76c274ab7d"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "GREATER BALTIMORE MEDICAL CENTER, INC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "443-849-2707"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "6535 N CHARLES ST"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21204-5828",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:723ae35d-ffe5-3770-b3d7-cefed5157003",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "723ae35d-ffe5-3770-b3d7-cefed5157003",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 72
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "723ae35d-ffe5-3770-b3d7-cefed5157003"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP347400",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-806-4451"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "3311 COOL SPRING RD"
+            ],
+            "city": "ADELPHI",
+            "state": "MD",
+            "postalCode": "20783-1859",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:457d5452-2527-345e-94e7-ba3bf4c1b5f5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "457d5452-2527-345e-94e7-ba3bf4c1b5f5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 168
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "457d5452-2527-345e-94e7-ba3bf4c1b5f5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PCP349600",
+        "address": [
+          {
+            "line": [
+              "1801 GLEN KEITH BLVD"
+            ],
+            "city": "PARKVILLE",
+            "state": "MD",
+            "postalCode": "21234-5100",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1c19ae63-1a31-3416-8b71-cc3fb0156414",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "1c19ae63-1a31-3416-8b71-cc3fb0156414",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 78
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "1c19ae63-1a31-3416-8b71-cc3fb0156414"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ST PAUL PLACE SPECIALISTS, INC.",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-321-8452"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7600 OSLER DR"
+            ],
+            "city": "TOWSON",
+            "state": "MD",
+            "postalCode": "21204-7701",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:faa7f31f-aeee-3df1-9f56-c4ac76d1ea11",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "faa7f31f-aeee-3df1-9f56-c4ac76d1ea11",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 82
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "faa7f31f-aeee-3df1-9f56-c4ac76d1ea11"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "PRIVIA MEDICAL GROUP,LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "301-220-0200"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "7525 GREENWAY CTR DR"
+            ],
+            "city": "GREENBELT",
+            "state": "MD",
+            "postalCode": "20770-3525",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f4c699bb-8efe-3d0d-94d9-42c153b651a5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f4c699bb-8efe-3d0d-94d9-42c153b651a5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 68
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f4c699bb-8efe-3d0d-94d9-42c153b651a5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "MONOCACY HEALTH PARTNERS LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "240-575-2526"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "504 E RIDGEVILLE BLVD"
+            ],
+            "city": "MOUNT AIRY",
+            "state": "MD",
+            "postalCode": "21771-5252",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cb0d1da1-b497-3eaf-b54d-9704e1ac0371",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "cb0d1da1-b497-3eaf-b54d-9704e1ac0371",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 140
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "cb0d1da1-b497-3eaf-b54d-9704e1ac0371"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CORSICA RIVER MENTAL HEALTH SERVICES, INC.",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-758-2211"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "332 N MAIN ST"
+            ],
+            "city": "FEDERALSBURG",
+            "state": "MD",
+            "postalCode": "21632-1007",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:395f49fc-00a5-3f3c-8032-e7a603774906",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "395f49fc-00a5-3f3c-8032-e7a603774906",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 98
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 4
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 1
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "395f49fc-00a5-3f3c-8032-e7a603774906"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "ANNE ARUNDEL PHYSICIAN GROUP LLC",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-758-3303"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "202 COURSEVALL DR"
+            ],
+            "city": "CENTREVILLE",
+            "state": "MD",
+            "postalCode": "21617-2804",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9fb20031-62a3-392a-9a70-1f6ec7fa0476",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "9fb20031-62a3-392a-9a70-1f6ec7fa0476",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 34
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "9fb20031-62a3-392a-9a70-1f6ec7fa0476"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "URGENT CARE AT ROBINWOOD",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "240-313-9600"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "11110 MEDICAL CAMPUS ROAD"
+            ],
+            "city": "HAGERSTOWN",
+            "state": "MD",
+            "postalCode": "21742",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f167e664-889b-30c7-a31d-b52662c10ae5",
+      "resource": {
+        "resourceType": "Organization",
+        "id": "f167e664-889b-30c7-a31d-b52662c10ae5",
+        "extension": [
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-encounters-extension",
+            "valueInteger": 25
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-procedures-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-labs-extension",
+            "valueInteger": 0
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/utilization-prescriptions-extension",
+            "valueInteger": 0
+          }
+        ],
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "f167e664-889b-30c7-a31d-b52662c10ae5"
+          }
+        ],
+        "active": true,
+        "type": [
+          {
+            "coding": [
+              {
+                "system": "http://terminology.hl7.org/CodeSystem/organization-type",
+                "code": "prov",
+                "display": "Healthcare Provider"
+              }
+            ],
+            "text": "Healthcare Provider"
+          }
+        ],
+        "name": "CONCENTRA URGENT CARE - ROSEDALE",
+        "telecom": [
+          {
+            "system": "phone",
+            "value": "410-687-6462"
+          }
+        ],
+        "address": [
+          {
+            "line": [
+              "8101 PULASKI HIGHWAY"
+            ],
+            "city": "BALTIMORE",
+            "state": "MD",
+            "postalCode": "21237",
+            "country": "US"
+          }
+        ]
+      },
+      "request": {
+        "method": "POST",
+        "url": "Organization"
+      }
+    }
+  ]
+}
